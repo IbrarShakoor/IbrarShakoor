@@ -5,6 +5,6 @@
   - 👨‍💻 I'm an ETL Developer at <a href = "https://www.ibm.com/hu-en">IBM </a>.
   - 👨‍🏫 I was a System Administrator at <a href = "https://www.ibm.com/hu-en">IBM </a>.
   - 🎓 I'm studying Computer Science Engineering at BME, Budapest. I'm expecting to graduate in 2021.
-  - 🎯 I'm currently doing <a href="https://github.com/IbrarShakoor/Online-Food-Webshop">  Java Programming Project (Website) </a>.![20%](https://progress-bar.dev/80)
+  - 🎯 I'm currently doing <a href="https://github.com/IbrarShakoor/Online-Food-Webshop">  Java Project ->Online Food Delivery </a>.![20%](https://progress-bar.dev/20)
   - 📧 You can reach me at: Ibrarraja11222@gmail.com
 <p>&nbsp;</p>
